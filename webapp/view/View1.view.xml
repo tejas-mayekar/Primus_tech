@@ -1,0 +1,13 @@
+<mvc:View controllerName="project1.controller.View1"
+    xmlns:mvc="sap.ui.core.mvc"
+    xmlns="sap.m">
+    <Page id="page" title="{i18n>title}">
+    <content>
+    <Text id="_id_new">Test Input for Git</Text>
+        
+    <Text id="_id_new_text_2">Test Input from Git</Text>
+    
+    <Text id="_id_new_text_21">Test Input Demo</Text>  
+    </content>
+    </Page>
+</mvc:View>
